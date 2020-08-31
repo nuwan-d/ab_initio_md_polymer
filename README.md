@@ -1,6 +1,6 @@
 # Ab initio MD simulations of a polyurethane segment
 
-The VASP input files required to conduct ab initio MD simulation of a polyurethane segment (shown below) are provided. A movie of the ionic relaxation process is [available here](https://youtu.be/Vsq_4CRPE2w).
+The VASP input files required to conduct ab initio MD simulation of a polyurethane segment (shown below) are provided. A movie of the simulation is [available here](https://youtu.be/Vsq_4CRPE2w).
 
 <img src="polymer chain.png" width="400">
 
